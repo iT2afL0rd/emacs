@@ -1,0 +1,312 @@
+((("ANDROID_GLOBAL_LIGHT_PATTERN_BASEDIR" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("PATTERN_SCALE_LIGHT" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("upload_path" .
+   [2 0 0 0 0 0 0 0 0 0 0])
+  ("upload" .
+   [1 0 0 0 0 0])
+  ("PATTERN_SCALE_FULL" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("diff_pattern_source_path" .
+   [0 0 0 0 0 0 0 0 0 1 0 4 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("scale" .
+   [7 0 0 0 2])
+  ("scan" .
+   [0 0 0 1])
+  ("branch" .
+   [4 0 0 0 0 0])
+  ("os_type" .
+   [0 0 0 0 0 4 0])
+  ("DIFF_PATTERN_SOURCE" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0])
+  ("exception" .
+   [2 0 0 0 0 0 0 0 0])
+  ("Exception" .
+   [0 0 0 1 4 0 0 0 3])
+  ("except" .
+   [1 0 0 0 0 6])
+  ("try" .
+   [6 0 0])
+  ("def" .
+   [4 0 0])
+  ("BROKER_HOST" .
+   [0 0 0 1 0 0 0 0 0 0 0])
+  ("len" .
+   [3 0 0])
+  ("999" .
+   [1 0 0])
+  ("randint" .
+   [0 0 0 0 1 0 0])
+  ("random" .
+   [1 0 0 0 0 1])
+  ("render" .
+   [1 0 0 0 0 0])
+  ("request" .
+   [1 0 0 0 0 0 0])
+  ("render_to_response" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("current_app" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("daily_received" .
+   [1 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("handle_info" .
+   [1 0 0 0 0 0 1 0 0 0 0])
+  ("__ignoreSignature" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("return" .
+   [10 0 0 0 2 2])
+  ("False" .
+   [0 0 14 0 0])
+  ("update" .
+   [2 0 0 0 0 0])
+  ("updateTest" .
+   [0 0 0 0 0 0 0 0 0 1])
+  ("logger" .
+   [7 0 0 0 0 0])
+  ("error" .
+   [4 0 0 2 0])
+  ("pattern_file" .
+   [0 0 0 0 0 0 0 0 0 1 0 0])
+  ("sample_info" .
+   [0 0 0 0 0 0 0 0 0 1 0])
+  ("one_signature" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("sha1" .
+   [6 0 0 0])
+  ("for" .
+   [2 0 0])
+  ("in" .
+   [9 0])
+  ("__pafi_vendor_list" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("pafi_vendor" .
+   [0 0 0 0 0 0 0 2 0 0 0])
+  ("pafi_result" .
+   [0 0 0 0 1 1 0 5 0 1 3])
+  ("__PAFI_VIRUS" .
+   [0 0 0 0 0 0 1 0 0 0 0 0])
+  ("self" .
+   [13 0 0 0])
+  ("detected_vendor" .
+   [0 0 0 0 0 0 1 0 5 0 0 0 1 0 1])
+  ("append" .
+   [0 0 0 0 1 1])
+  ("vendor" .
+   [3 0 0 0 0 0])
+  ("return_result" .
+   [0 0 0 0 0 0 0 0 0 3 0 0 0])
+  ("vendor1" .
+   [0 0 0 0 0 1 1])
+  ("vendor_count" .
+   [0 0 0 0 0 0 0 0 0 0 3 0])
+  ("break" .
+   [0 0 0 3 1])
+  ("getPAFIResult" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("str" .
+   [1 0 0])
+  ("print" .
+   [2 0 0 0 0])
+  ("index" .
+   [3 0 0 0 0])
+  ("range" .
+   [1 0 0 0 1])
+  ("Virustotal" .
+   [0 0 0 0 0 0 0 0 0 1])
+  ("virustotal_report" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 3])
+  ("detected_vendor_list" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1])
+  ("vendor_name" .
+   [3 0 0 0 0 0 0 0 1 3 1])
+  ("split" .
+   [1 0 0 1 0])
+  ("vendor_priority" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("detected_priority_dict" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0])
+  ("if" .
+   [3 0])
+  ("has_key" .
+   [0 0 0 5 0 0 1])
+  ("pass" .
+   [8 0 2 0])
+  ("else" .
+   [16 0 0 0])
+  ("detect" .
+   [0 0 0 0 0 1])
+  ("detected_report" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 1])
+  ("detected_report_dict" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 2 0 0])
+  ("detected_time" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("pafi" .
+   [6 0 0 1])
+  ("virus" .
+   [1 0 0 0 0])
+  ("virus_name" .
+   [2 0 0 0 0 0 0 0 0 1])
+  ("__IGNORE_RESULT_LIST" .
+   [0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("upper" .
+   [4 0 0 0 0])
+  ("continue" .
+   [0 0 0 0 0 2 0 0])
+  ("__ignoreResult" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("True" .
+   [1 0 7 2])
+  ("sigdis_stop" .
+   [2 0 0 0 0 0 0 0 0 0 1])
+  ("antput" .
+   [4 0 0 0 0 0])
+  ("confirm" .
+   [3 0 0 0 0 0 0])
+  ("sigdis_state" .
+   [0 0 0 0 0 0 0 0 0 0 1 0])
+  ("sigdis_start" .
+   [2 0 0 0 0 0 0 0 0 0 0 1])
+  ("stop" .
+   [1 0 0 0])
+  ("start" .
+   [2 0 0 0 0])
+  ("join" .
+   [3 0 1 1])
+  ("args" .
+   [4 0 0 0])
+  ("parser" .
+   [1 0 0 0 0 0])
+  ("ops" .
+   [1 0 0])
+  ("info" .
+   [2 0 0 0])
+  ("and" .
+   [1 0 0])
+  ("minipafi_report" .
+   [2 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("from" .
+   [1 0 0 0])
+  ("minipafi" .
+   [1 0 0 0 0 0 0 0])
+  ("import" .
+   [2 0 0 1 0 0])
+  ("MiniCrawl" .
+   [0 0 0 0 1 1 0 0 0])
+  ("__minicrawler" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("getMiniCrawl" .
+   [0 0 0 1 0 0 0 0 0 0 0 0])
+  ("sample" .
+   [2 0 0 0 0 0])
+  ("not" .
+   [4 0 0])
+  ("None" .
+   [0 0 0 11])
+  ("minipafi_result" .
+   [0 0 0 0 0 0 2 0 0 0 0 0 1 0 2])
+  ("mini" .
+   [4 0 0 0])
+  ("pafi_result_dict" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("minipafi_dict" .
+   [0 0 0 0 0 0 4 0 0 0 0 0 1])
+  ("__logger" .
+   [0 0 0 0 0 0 1 0])
+  ("debug" .
+   [1 0 0 0 0])
+  ("pafi_report" .
+   [0 0 0 0 0 0 0 0 0 1 1])
+  ("elif" .
+   [2 0 0 0])
+  ("md5" .
+   [1 0 0])
+  ("mda_result_dict" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 1])
+  ("mda_result" .
+   [1 0 0 0 0 0 0 1 0 2])
+  ("mda" .
+   [1 0 0])
+  ("load" .
+   [1 0 0 0])
+  ("flymake" .
+   [1 0 0 0 0 0 0])
+  ("flymake-python-pyflakes" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("require" .
+   [1 0 0 0 0 0 0])
+  ("is" .
+   [1 0])
+  ("type" .
+   [1 0 0 0])
+  ("file" .
+   [1 0 0 0])
+  ("one_type" .
+   [1 0 0 0 0 0 0 1])
+  ("filetype_list" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("filetype" .
+   [0 0 0 0 0 0 0 1])
+  ("mysql" .
+   [2 0 0 0 0])
+  ("cluster" .
+   [1 0 0 0 0 0 0])
+  ("node" .
+   [2 0 0 0])
+  ("--initial" .
+   [1 0 0 0 0 0 0 0 0])
+  ("passwd" .
+   [3 0 0 0 1 1])
+  ("__DEFAULT_PASSWD" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("extract_status" .
+   [0 0 0 0 0 0 0 0 0 2 0 1 0 0])
+  ("Exp" .
+   [0 0 2])
+  ("new_file" .
+   [0 0 0 0 0 1 0 0])
+  ("while" .
+   [3 0 0 0 0])
+  ("os" .
+   [6 0])
+  ("listdir" .
+   [0 0 0 0 0 1 0])
+  ("sample_path" .
+   [0 0 0 0 0 0 0 0 0 2 0])
+  ("new_path" .
+   [1 0 0 0 0 0 1 0])
+  ("source_items" .
+   [0 0 0 1 1 0 0 0 0 1 0 2])
+  ("path" .
+   [1 0 0 2])
+  ("pop" .
+   [0 0 1])
+  ("postingSamples" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("sys" .
+   [1 0 0])
+  ("argv" .
+   [1 0 0 0])
+  ("__getStringSha1" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("file_param" .
+   [0 0 0 0 0 0 0 2 1 0])
+  ("isdir" .
+   [0 0 1 0 0])
+  ("dest_path" .
+   [0 0 0 0 0 0 1 2 0])
+  ("file_path" .
+   [0 0 0 0 0 0 0 0 3])
+  ("createCase" .
+   [0 0 0 0 0 0 1 0 0 0])
+  ("attr" .
+   [1 0 0 0])
+  ("ret" .
+   [1 0 0])
+  ("postingHigh" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("scan_id" .
+   [1 0 0 0 0 0 0])
+  ("task_worker" .
+   [1 0 0 0 0 0 0 0 0 0 0])))

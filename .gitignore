@@ -1,0 +1,21 @@
+# Compiled source #
+###################
+*.*~
+*.pyc
+
+# ignore folders #
+.ssh/*
+org-doc/*
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.gz
+*.rar
+*.tar.gz
+*.zip
+
+# Logs #
+######################
+*.log
